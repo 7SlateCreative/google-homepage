@@ -1,6 +1,6 @@
 *** README ***
 
-Google Homepage (Easy) & Search Results (hard)
+Google Homepage (easy) & Search Results (hard)
 
 Last update: 03/19/2015
 
