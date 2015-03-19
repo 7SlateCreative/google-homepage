@@ -1,9 +1,16 @@
-# google-homepage
+*** README ***
 
-google-homepage
+Google Homepage (Easy) & Search Results (hard)
 
-March 19, 2015
+Last update: 03/19/2015
 
-The Odin Project:
-project link
+03/19/2015 -- Began project and finished the homepage (approx. 4pm)
+
+Description:
+
+This is an exercise that I am attempting using html and css.
+
+I am working on this exercise via The Odin Project.
+
+Project link:
 http://www.theodinproject.com/web-development-101/html-css?ref=lnav
